@@ -9,5 +9,18 @@
 
 # Diseño Interfaz:
 
+Pantalla IA
 ![Pantalla para usar IA](./pantallaIA.png)
 
+
+Imagen generada por la IA
+
+![Pantalla generada por IA](./IAGenerada.png)
+
+Mas productos
+
+![Ver mas Productos](./masProductos.png)
+
+Carrito de compra
+
+![Carrito de compra](./carrito.png)
