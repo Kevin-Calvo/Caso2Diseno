@@ -11,20 +11,20 @@
 
 - Pantalla IA
 
-![Pantalla para usar IA](./pantallaIA.png)
+![Pantalla para usar IA](./imagenes/pantallaIA.png)
 
 
 - Imagen generada por la IA
 
-![Pantalla generada por IA](./IAGenerada.png)
+![Pantalla generada por IA](./imagenes/IAGenerada.png)
 
 - Más productos
 
-![Ver mas Productos](./masProductos.png)
+![Ver mas Productos](./imagenes/masProductos.png)
 
 - Carrito de compra
 
-![Carrito de compra](./carrito.png)
+![Carrito de compra](./imagenes/carrito.png)
 
 
 # Pruebas:
