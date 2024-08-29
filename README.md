@@ -77,7 +77,7 @@ Las pruebas eran:
 
 4. Más productos
 
--Se registraron 7 respuestas.
+- Se registraron 7 respuestas.
 - 5 personas encontraron el botón de forma directa.
 - 2 personas recorrieron otras pestañas antes de encontrar la solución.
 - Sugirieron mejor la vista de los otros productos, y mejorar el diseño del botón.
