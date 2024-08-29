@@ -9,3 +9,5 @@
 
 # Diseño Interfaz:
 
+![Pantalla para usar IA](patallaIA.png)
+
