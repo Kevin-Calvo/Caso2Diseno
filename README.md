@@ -7,6 +7,14 @@
 - Robles Mata Jose Andres
 - Urbina Salazar Luis Gerardo
 
+
+#Links:
+
+- Figma: https://www.figma.com/proto/rlKRwM7hq5UyM1Qe7UQfCq/Untitled?node-id=10-429&starting-point-node-id=10%3A429&t=dPFaV2vw70QCP8F6-1 
+
+- Maze: https://t.maze.co/276774117 
+
+
 # Diseño Interfaz:
 
 - Pantalla IA
